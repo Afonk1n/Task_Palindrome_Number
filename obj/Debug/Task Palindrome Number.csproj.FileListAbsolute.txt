@@ -1,0 +1,7 @@
+C:\Users\mafon\source\repos\Task Palindrome Number\bin\Debug\Task Palindrome Number.exe.config
+C:\Users\mafon\source\repos\Task Palindrome Number\bin\Debug\Task Palindrome Number.exe
+C:\Users\mafon\source\repos\Task Palindrome Number\bin\Debug\Task Palindrome Number.pdb
+C:\Users\mafon\source\repos\Task Palindrome Number\obj\Debug\Task Palindrome Number.csproj.AssemblyReference.cache
+C:\Users\mafon\source\repos\Task Palindrome Number\obj\Debug\Task Palindrome Number.csproj.CoreCompileInputs.cache
+C:\Users\mafon\source\repos\Task Palindrome Number\obj\Debug\Task Palindrome Number.exe
+C:\Users\mafon\source\repos\Task Palindrome Number\obj\Debug\Task Palindrome Number.pdb
